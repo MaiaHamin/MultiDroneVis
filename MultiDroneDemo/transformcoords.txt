@@ -1,0 +1,8 @@
+Obj Loc:     X=1538.323 Y=-493.660 Z=100.000   Cam Loc:   X=-544.000 Y=-112.500 Z=119.253   Rel Coord:   X=-2128.323 Y=393.660 Z=102.000   Distance:2117.007568   Relative Rotation:150.523987
+Obj Loc:     X=1358.158 Y=425.852 Z=100.000   Cam Loc:   X=-544.000 Y=-112.500 Z=119.202   Rel Coord:   X=-1948.158 Y=-525.852 Z=102.000   Distance:1976.966187   Relative Rotation:174.275269
+Obj Loc:     X=2823.681 Y=1122.844 Z=100.000   Cam Loc:   X=-544.000 Y=-112.500 Z=119.182   Rel Coord:   X=-3413.681 Y=-1222.844 Z=102.000   Distance:3587.1604   Relative Rotation:169.998764
+Obj Loc:     X=2342.051 Y=-398.182 Z=100.000   Cam Loc:   X=-544.000 Y=-112.500 Z=119.173   Rel Coord:   X=-2932.051 Y=298.182 Z=102.000   Distance:2900.219238   Relative Rotation:158.667007
+Obj Loc:     X=1497.838 Y=-629.731 Z=100.000   Cam Loc:   X=-544.000 Y=-112.500 Z=119.175   Rel Coord:   X=-2087.838 Y=529.731 Z=102.000   Distance:2106.417969   Relative Rotation:145.512695
+Obj Loc:     X=596.246 Y=-518.746 Z=100.000   Cam Loc:   X=-544.000 Y=-112.500 Z=119.172   Rel Coord:   X=-1186.246 Y=418.746 Z=102.000   Distance:1210.604858   Relative Rotation:127.291893
+Obj Loc:     X=1250.113 Y=-229.783 Z=100.000   Cam Loc:   X=-544.000 Y=-112.500 Z=119.172   Rel Coord:   X=-1840.113 Y=129.783 Z=102.000   Distance:1798.044189   Relative Rotation:157.900574
+Obj Loc:     X=2641.853 Y=-711.233 Z=100.000   Cam Loc:   X=-544.000 Y=-112.500 Z=119.192   Rel Coord:   X=-3231.853 Y=611.233 Z=102.000   Distance:3241.682373   Relative Rotation:153.248077
